@@ -19,7 +19,6 @@ config();
 
 
 /** appliation port */
-const port = process.env.PORT || 8080;
 
 
 /** routes */
